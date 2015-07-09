@@ -55,6 +55,9 @@
               "clients": {
                 "type": "integer"
               },
+              "firstcontact": {
+                "type": "string"
+              },
               "lastcontact": {
                 "type": "string"
               }
