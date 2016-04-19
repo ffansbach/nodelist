@@ -9,7 +9,7 @@
       "enum" : ["1.0.1"],
       "default" : "1.0.1",
       "required" : true
- 	},
+    },
     "updated_at": {
       "type": "string"
     },
