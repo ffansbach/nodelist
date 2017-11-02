@@ -2,7 +2,6 @@
   "$schema": "http://json-schema.org/draft-03/schema#",
   "description": "nodelistjson schema",
   "type": "object",
-  "required" : ["version"],
   "properties": {
     "version": {
       "type": "string",
